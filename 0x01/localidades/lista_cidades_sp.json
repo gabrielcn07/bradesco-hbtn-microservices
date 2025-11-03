@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3500105,
+    "nome": "Adamantina",
+    "municipio": {
+      "id": 3500105,
+      "nome": "Adamantina"
+    }
+  },
+  {
+    "id": 3500204,
+    "nome": "Adolfo",
+    "municipio": {
+      "id": 3500204,
+      "nome": "Adolfo"
+    }
+  },
+  {
+    "id": 3550308,
+    "nome": "São Paulo",
+    "municipio": {
+      "id": 3550308,
+      "nome": "São Paulo"
+    }
+  }
+]

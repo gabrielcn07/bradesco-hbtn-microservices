@@ -1,0 +1,32 @@
+[
+  {
+    "id": 12,
+    "sigla": "AC",
+    "nome": "Acre",
+    "regiao": {
+      "id": 1,
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "id": 35,
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "regiao": {
+      "id": 3,
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  },
+  {
+    "id": 33,
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "regiao": {
+      "id": 3,
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  }
+]
