@@ -1,0 +1,10 @@
+Microsserviços são um estilo de arquitetura de software que divide uma aplicação em pequenos serviços independentes, cada um responsável por uma funcionalidade específica. Esses serviços comunicam-se entre si, normalmente por APIs.
+
+Na arquitetura monolítica, todas as funções do sistema são desenvolvidas e implantadas em um único bloco. Isso torna a aplicação mais simples de iniciar, mas difícil de escalar e manter, pois qualquer alteração exige a atualização de todo o sistema. Já na arquitetura de microsserviços, a aplicação é composta por vários módulos autônomos, permitindo maior flexibilidade e escalabilidade.
+
+Os principais benefícios dos microsserviços são:
+1. **Escalabilidade** – cada serviço pode ser escalado individualmente conforme a demanda.
+2. **Manutenibilidade** – facilita a atualização e correção de falhas sem afetar todo o sistema.
+3. **Autonomia tecnológica** – cada serviço pode usar a linguagem ou tecnologia mais adequada.
+
+Os microsserviços se comunicam principalmente de duas formas: **síncrona**, usando protocolos como HTTP/REST ou gRPC, e **assíncrona**, por meio de mensageria com filas ou brokers (como Kafka e RabbitMQ). Essa comunicação eficiente permite a integração e o funcionamento coordenado de todos os serviços.
